@@ -1,3 +1,2 @@
 # Berita-Sains-Terkini
-There is a bug on this code which i can't get the email registrant in mailchimp, eventhough the https status code is 200 which means success.
-If anyone knows how to fix the problem, feel free to give me a feedback. Thank you:)
+Berita Sains Terkini is a web application made by me which you can get a news about science. Click on link here : https://obscure-scrubland-74014.herokuapp.com/
